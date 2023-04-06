@@ -1,9 +1,12 @@
 import React from 'react';
+import Header from './componnets/Header/Header';
+import { Outlet } from 'react-router-dom';
 
 const App = () => {
   return (
     <div>
-      <h1>suhanur rohoman sumon</h1>
+      <Header />
+      <Outlet />
     </div>
   );
 };

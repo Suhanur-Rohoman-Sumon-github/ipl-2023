@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "team": "GT",
+    "played" : 2,
+    "won": 2,
+    "lost": 4,
+    "points": 4,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ARW4SIJB3W4PqNVBX2AurPlUWXvWvhca-DSTVqQFvQ&s"
+  },
+  {
+    "id": "2",
+    "team": "PK",
+    "played" : 2,
+    "won": 2,
+    "lost": 3,
+    "points": 4,
+    "logo": "https://assets.gqindia.com/photos/602e3de7181d455ae13c16b9/master/w_1920,h_1080,c_limit/kings%20xi%20punjab%20new%20logo.jpg"
+  },
+  {
+    "id": "3",
+    "team": "KKR",
+    "played" : 2,
+    "won": 1,
+    "lost": 3,
+    "points": 2,
+    "logo": "https://example.com/kolkata-knight-riders.pnghttps://wallpaperaccess.com/full/3411317.jpg"
+  },
+  {
+    "id": "4",
+    "team": "RR",
+    "played": 2,
+    "won": 1,
+    "lost": 4,
+    "points": 2,
+    "logo": "https://static.toiimg.com/photo/msid-77990255/77990255.jpg"
+  },
+  {
+    "id": "5",
+    "team": "LSG",
+    "played" : 2,
+    "won": 1,
+    "lost": 4,
+    "points": 2,
+    "logo": "https://static.toiimg.com/thumb/msid-89248103,width-400,resizemode-4/89248103.jpg"
+  },
+  {
+    "id": "6",
+    "team": "CSK",
+    "played" : 2,
+    "won": 1,
+    "lost": 1,
+    "points": 2,
+    "logo": "https://www.pngitem.com/pimgs/m/127-1270691_chennai-super-kings-logo-png-image-free-download.png"
+  },
+  {
+    "id": "7",
+    "team": "RCB",
+    "played": 2,
+    "won": 1,
+    "lost": 3,
+    "points": 2,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-M5Nm2LcEVma2Qud354iaX-HkulHR-nvqvSBvPDIj&s"
+  },
+  {
+    "id": "8",
+    "team": "DC",
+    "played" : 2,
+    "won": 0,
+    "lost": 2,
+    "points": 0,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWH1bFD-8wd7efQXFnFJcMFdwqI_nDHBBXj720Kvi0&s"
+  },
+  {
+    "team": "MI",
+    "id": "9",
+    "played": 2,
+    "won": 0,
+    "lost": 2,
+    "points": 0,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png"
+  },
+  {
+    "id": "10",
+    "team": "SRH",
+    "played" : "2",
+    "won": 0,
+    "lost": 4,
+    "points": 0,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Sunrisers_Hyderabad.png"
+  }
+ 
+]
