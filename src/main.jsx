@@ -30,6 +30,7 @@ const router = createBrowserRouter([
       {
         path:'Players',
         element:<Players />,
+        loader:()=>fetch('player.json')
       },
     ]
   }
